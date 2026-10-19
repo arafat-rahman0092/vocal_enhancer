@@ -1,0 +1,6 @@
+{
+  "name": "VoxCraft Studio — Professional Voice Enhancer",
+  "description": "Studio-grade real-time voice enhancer and vocal mastering workstation powered by Web Audio DSP. Record from your microphone or upload audio to remove rumble, sculpt warmth and clarity, compress dynamics, and export broadcast-ready WAV audio.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
